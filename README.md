@@ -72,7 +72,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - ### Python
 
 - [ ] Adequate Python Knowledge
-    - [ ] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+    - [x] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
     - [ ] [edX & Microsoft - Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
     - [ ] [Coursera - Python For Everybody](https://www.coursera.org/learn/python)
     - [ ] [SoloLearn Learn Python](https://www.sololearn.com/Course/Python/)
@@ -91,7 +91,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - ### Linear Algebra
 
 - [ ] Adequate Linear Algebra Knowledge
-    - [ ] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+    - [x] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
     - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [MIT - Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
@@ -107,30 +107,30 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - ### Statistics
 
 - [ ] Adequate Statistics Knowledge
-    - [ ] [Udacity - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
-    - [ ] [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-    - [ ] [Udacity - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+    - [x] [Udacity - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+    - [x] [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+    - [x] [Udacity - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
     - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
 
 ## Deep Learning
 
 - ### Machine Learning
 
-- [ ] Adequate Machine Learning Knowledge
-    - [ ] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
-    - [ ] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-    - [ ] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [x] Adequate Machine Learning Knowledge
+    - [x] [Udacity - Friendly Introduction to Machine Learning](https://www.youtube.com/playlist?list=PLAwxTw4SYaPknYBrOQx6UCyq67kprqXe3)
+    - [x] [Udacity - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+    - [x] [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 - ### Neural Networks
 
 - [ ] Adequate Neural Networks Knowledge
     - [ ] [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
-    - [ ] [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
+    - [x] [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
     - [ ] [nvidia - Deep Learning Courses](https://developer.nvidia.com/deep-learning-courses)
     - [ ] [Nature of Code Book (Chapter 10)](http://natureofcode.com/book/)
     - [ ] [MIT Press - Deep Learning Book (free online)](http://www.deeplearningbook.org/)
     - [ ] [Neural Networks and Deep Learning Book (free online)](http://neuralnetworksanddeeplearning.com/index.html)
-    - [ ] [Stanford - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLwQyV9I_3POsyBPRNUU_ryNfXzgfkiw2p)
+    - [x] [Stanford - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLwQyV9I_3POsyBPRNUU_ryNfXzgfkiw2p)
 
 - ### Artificial Intelligence
 
@@ -173,7 +173,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - [ ] [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [ ] [Machine Learning Tutorials (list)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [ ] [Bay Area Deep Learning School Day 1](https://www.youtube.com/watch?v=eyovmAtoUx0)
-- [ ] [UC Berkeley CS188 Intro to AI lecture (Reinforcement Learning)](https://youtu.be/w33Lplx49_A)
+- [x] [UC Berkeley CS188 Intro to AI lecture (Reinforcement Learning)](https://youtu.be/w33Lplx49_A)
 - [ ] [Deep Learning Datasets (for public download)](http://deeplearning.net/datasets/)
 - [ ] [Benchmarking (classifier performance)](http://yann.lecun.com/exdb/mnist/)
 - [ ] [On using LibPointMatcher (http://libpointmatcher.readthedocs.io/en/latest/ApplicationsAndPub/) to map dynamic environments with LIDAR](https://www.youtube.com/watch?v=cMgLyLpnsoU)
